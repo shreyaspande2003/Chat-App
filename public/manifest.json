@@ -1,0 +1,14 @@
+{
+  "short_name": "React App",
+  "name": "Whatsapp Clone Chat App",
+  "icons": [
+    {
+      "src": "http://pngimg.com/uploads/whatsapp/whatsapp_PNG95169.png",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

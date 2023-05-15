@@ -1,4 +1,4 @@
-# Whatsapp Clone Chat App
+# Chat App
 
 ## Live Demo
 
